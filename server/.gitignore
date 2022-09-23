@@ -1,0 +1,5 @@
+node_modules
+# package-lock.json
+# .env // when project run that time it will not commented
+# client/node_modules
+# client/package-lock.json
